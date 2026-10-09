@@ -119,3 +119,7 @@ $$V_{out,Buck} = D \cdot V_{in}, \quad V_{out,BuckBoost} = \frac{D}{1-D} V_{in}$
 4. Press **Run** to execute the simulation and view scope outputs.
 
 > **Note:** The Simscape / SimPowerSystems (Electrical) toolbox is required to run the power circuit models.
+
+## GitHub Preview
+
+GitHub can display the laboratory PDFs, but it cannot run or render Simulink `.slx` models in the browser. Download a model and open it locally in MATLAB/Simulink to inspect the block diagram and reproduce the waveforms.
